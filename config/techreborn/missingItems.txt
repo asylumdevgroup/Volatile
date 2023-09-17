@@ -1,0 +1,12 @@
+lapotronCrystal
+reinforcedGlass
+geothermalGenerator
+electrolyzer
+magnetizer
+inductionFurnace
+compressor
+silicondioxideDust
+coalChunk
+fertilizer
+reactorCoolantSimple
+insulatedGoldCableItem

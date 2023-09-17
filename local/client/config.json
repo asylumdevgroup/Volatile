@@ -1,0 +1,27 @@
+{
+  "ftbl": {
+    "action_buttons_on_top": true,
+    "item_ore_names": false,
+    "item_reg_names": false,
+    "notifications": "screen",
+    "open_hsb_cg": false,
+    "player_options_shortcut": false,
+    "reload_client_cmd": "reload_client"
+  },
+  "ftbu": {
+    "guide_unicode": true,
+    "hide_armor_fg": false,
+    "loaded_chunks_space_key": false,
+    "render_badges": true,
+    "sort_friends_az": false
+  },
+  "sidebar_buttons": {
+    "ftbl.toggle_day": true,
+    "ftbl.toggle_gamemode": true,
+    "ftbl.toggle_night": true,
+    "ftbl.toggle_rain": true,
+    "ftbu.claimed_chunks": true,
+    "ftbu.guide": true,
+    "ftbu.server_info": true
+  }
+}
